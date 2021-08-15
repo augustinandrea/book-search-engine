@@ -1,68 +1,50 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Book Search Engine
 
-## Available Scripts
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
-In the project directory, you can run:
+  ## Description
+  This is a react-based portfolio website. On this website, there is an "about me" section, a portfolio section, a contact section, and a resume section. The resume section has a downloadable resume and lists of all my proficiencies.
 
-### `yarn start`
+  Here is a link to the app: https://augustinandrea.github.io/react-portfolio-website/
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  ## Table of Contents
+  * [Description](#Description)
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [License](#license)
+  * [Contributing](#Contributing)
+  * [Questions](#Questions)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+ 
+  ## Installation
+  Download the github repo.
 
-### `yarn test`
+  ## Usage
+  First implement npm install. Then to start the program, type "npm init" into terminal. 
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  Side note: If you want to use Github Pages to deploy a live URL, make sure to implement the needed steps. The link below is a good step-by-step process.
+https://medium.com/mobile-web-dev/how-to-build-and-deploy-a-react-app-to-github-pages-in-less-than-5-minutes-d6c4ffd30f14
 
-### `yarn build`
+  
+  ## License 
+  ISC:
+  https://opensource.org/licenses/ISC
+  
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  Copyright© [2021] [augustinandrea] 
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+      Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+      THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.      
+        
 
-### `yarn eject`
+  ## Contributing
+  Andrea Augustin
+  
+  ## Questions
+  Contact me through email.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+  **GitHub**: [@augustinandrea](https://github.com/augustinandrea)
+  
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+  **Email**: augustin.andrea@gmail.com
