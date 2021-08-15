@@ -12,7 +12,7 @@
     "heroku-postbuild": "cd client && npm run build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Andrea Augustin",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
@@ -23,5 +23,13 @@
     "express": "^4.17.1",
     "graphql": "^15.5.1",
     "if-env": "^1.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/augustinandrea/book-search-engine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/augustinandrea/book-search-engine/issues"
+  },
+  "homepage": "https://github.com/augustinandrea/book-search-engine#readme"
 }
