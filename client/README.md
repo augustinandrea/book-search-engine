@@ -3,9 +3,9 @@
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
   ## Description
-  This is a react-based portfolio website. On this website, there is an "about me" section, a portfolio section, a contact section, and a resume section. The resume section has a downloadable resume and lists of all my proficiencies.
+  This is an app for searching books online. It uses the MERN full-stack.
 
-  Here is a link to the app: https://augustinandrea.github.io/react-portfolio-website/
+  Here is a link to the app: https://book-search-mern-engine.herokuapp.com/
 
   ## Table of Contents
   * [Description](#Description)
